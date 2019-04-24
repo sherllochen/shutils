@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  body: MyText
+  remarkable_id: 1
+  remarkable_type: MyString
+
+two:
+  body: MyText
+  remarkable_id: 1
+  remarkable_type: MyString
